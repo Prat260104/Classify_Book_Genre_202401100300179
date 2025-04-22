@@ -72,19 +72,20 @@ Sample data:
 Classification Report:
               precision    recall  f1-score   support
 
-     fantasy       0.27      0.75      0.40         4
-     fiction       0.67      0.40      0.50         5
-     mystery       0.50      0.45      0.48        11
- non-fiction       0.83      0.50      0.62        10
+   fantasy       0.27      0.75      0.40         4
+   fiction       0.67      0.40      0.50         5
+   mystery       0.50      0.45      0.48        11
+non-fiction       0.83      0.50      0.62        10
 
-    accuracy                           0.50        30
+   accuracy                           0.50        30
    macro avg       0.57      0.53      0.50        30
 weighted avg       0.61      0.50      0.52        30
 
-
-
 - 📘 A confusion matrix heatmap showing model predictions vs. actual genres  
-- 🧮 Classification metrics: Accuracy, Precision, Recall  
+- 🧮 Classification metrics: Accuracy, Precision, Recall
+
+- ![Confusion Matrix](Heatmap(OUTPUT).png)
+
 
 ---
 
